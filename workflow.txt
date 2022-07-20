@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Login</title>
+</head>
+<body>
+    <h3>Log In</h3>
+    <form action="">
+        <div>
+            <label for="">Email</label> <br>
+            <input type="email" name="email" placeholder="Enter Your Email...">
+        </div>
+        <div>
+            <label for="">Password</label> <br>
+            <input type="text" name="password" placeholder="Enter Your Password...">
+        </div>
+        <br>
+        <div>
+            <button type="submit">Submit</button>
+        </div>
+    </form>
+
+</body>
+</html>
+//:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+1. install laravel project
+2. Make master and login page
+3. Add Jquery and Bootstrap -> search bootstrap cdn
+
+4. header, footer and login
